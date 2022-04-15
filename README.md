@@ -12,3 +12,4 @@ notably bspwmrc for the monitors
 + rofi
 + picom
 + kitty
++ nitrogen
